@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Core.Persistance/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Core.Persistance.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.Persistance.dll": {}
+        }
+      },
+      "Core.Security/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Core.Persistance": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Core.Security.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.Security.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Core.Persistance/1.0.0": {
+      "type": "project",
+      "path": "../Core.Persistance/Core.Persistance.csproj",
+      "msbuildProject": "../Core.Persistance/Core.Persistance.csproj"
+    },
+    "Core.Security/1.0.0": {
+      "type": "project",
+      "path": "../Core.Security/Core.Security.csproj",
+      "msbuildProject": "../Core.Security/Core.Security.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Core.Security >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Asus\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\BaseArcSolution\\BaseArcSolution\\src\\coreProjects\\Core.Application\\Core.Application.csproj",
+      "projectName": "Core.Application",
+      "projectPath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\coreProjects\\Core.Application\\Core.Application.csproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\coreProjects\\Core.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\BaseArcSolution\\BaseArcSolution\\src\\coreProjects\\Core.Security\\Core.Security.csproj": {
+              "projectPath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\coreProjects\\Core.Security\\Core.Security.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
