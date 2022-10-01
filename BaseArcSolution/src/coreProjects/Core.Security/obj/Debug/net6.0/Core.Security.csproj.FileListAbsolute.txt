@@ -1,0 +1,15 @@
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\bin\Debug\net6.0\Core.Security.deps.json
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\bin\Debug\net6.0\Core.Security.dll
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\bin\Debug\net6.0\Core.Security.pdb
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\bin\Debug\net6.0\Core.Persistance.dll
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\bin\Debug\net6.0\Core.Persistance.pdb
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\obj\Debug\net6.0\Core.Security.csproj.AssemblyReference.cache
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\obj\Debug\net6.0\Core.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\obj\Debug\net6.0\Core.Security.AssemblyInfoInputs.cache
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\obj\Debug\net6.0\Core.Security.AssemblyInfo.cs
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\obj\Debug\net6.0\Core.Security.csproj.CoreCompileInputs.cache
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\obj\Debug\net6.0\Core.Security.csproj.CopyComplete
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\obj\Debug\net6.0\Core.Security.dll
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\obj\Debug\net6.0\refint\Core.Security.dll
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\obj\Debug\net6.0\Core.Security.pdb
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\obj\Debug\net6.0\ref\Core.Security.dll

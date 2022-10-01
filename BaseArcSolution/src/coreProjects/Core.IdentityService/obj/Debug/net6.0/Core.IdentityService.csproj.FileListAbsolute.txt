@@ -1,0 +1,12 @@
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.IdentityService\bin\Debug\net6.0\Core.IdentityService.deps.json
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.IdentityService\bin\Debug\net6.0\Core.IdentityService.dll
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.IdentityService\bin\Debug\net6.0\Core.IdentityService.pdb
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.IdentityService\obj\Debug\net6.0\Core.IdentityService.csproj.AssemblyReference.cache
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.IdentityService\obj\Debug\net6.0\Core.IdentityService.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.IdentityService\obj\Debug\net6.0\Core.IdentityService.AssemblyInfoInputs.cache
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.IdentityService\obj\Debug\net6.0\Core.IdentityService.AssemblyInfo.cs
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.IdentityService\obj\Debug\net6.0\Core.IdentityService.csproj.CoreCompileInputs.cache
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.IdentityService\obj\Debug\net6.0\Core.IdentityService.dll
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.IdentityService\obj\Debug\net6.0\refint\Core.IdentityService.dll
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.IdentityService\obj\Debug\net6.0\Core.IdentityService.pdb
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.IdentityService\obj\Debug\net6.0\ref\Core.IdentityService.dll

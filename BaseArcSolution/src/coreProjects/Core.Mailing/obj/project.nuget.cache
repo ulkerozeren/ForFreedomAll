@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "f/8DB77Lt27cw0m5jveM7nFe4PzaEwxlYctN4MGxOnguohpLpLScBOJJ4f7b71FWi4nkCmLL5BKvR8B+gpQ5Ew==",
+  "dgSpecHash": "bC5uG/qUzzuq146BnZRiaA9f2c4Kcw/+791RZ+EeCyAoLCMdTqIYtWdYRkjkvnsxmQeYyzpk9TU7TmoR2OuovA==",
   "success": true,
   "projectFilePath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\coreProjects\\Core.Mailing\\Core.Mailing.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\mailkit\\3.4.1\\mailkit.3.4.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\mimekit\\3.4.1\\mimekit.3.4.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.0\\system.security.cryptography.pkcs.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
