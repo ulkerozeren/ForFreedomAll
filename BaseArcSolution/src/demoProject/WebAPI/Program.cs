@@ -1,6 +1,6 @@
-using Microsoft.EntityFrameworkCore;
+using Application;
 using Persistance;
-using Persistance.Contexts;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,9 +9,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddPersistenceServices(builder.Configuration);
-
-//builder.Services.AddDbContext<BaseDbContext>(options => options.UseNpgsql(Configuration.ConnectionString));
+builder.Services.AddApplicationServices();
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
