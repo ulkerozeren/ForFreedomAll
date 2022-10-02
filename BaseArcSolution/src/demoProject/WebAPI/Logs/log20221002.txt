@@ -1,0 +1,1 @@
+2022-10-02 12:57:56.203 +03:00 [Information] Catalog GetAll metodu cagrildi..
