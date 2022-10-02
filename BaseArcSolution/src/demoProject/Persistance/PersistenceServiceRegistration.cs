@@ -1,4 +1,5 @@
 ﻿using Application.RepositoryInterfaces;
+using Domain.Entities.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -14,6 +15,14 @@ namespace Persistance
                                                                 IConfiguration configuration)
         {
             services.AddDbContext<BaseDbContext>(options => options.UseNpgsql(configuration.GetConnectionString("DemoProjectPostgreSQL")));
+            services.AddIdentity<AppUser, AppRole>(options =>
+            {
+                options.Password.RequiredLength = 3;
+                options.Password.RequireNonAlphanumeric = false;
+                options.Password.RequireDigit = false;
+                options.Password.RequireLowercase = false;
+                options.Password.RequireUppercase = false;
+            }).AddEntityFrameworkStores<BaseDbContext>();
 
             services.AddScoped<IProductRepository, ProductRepository>();
             services.AddScoped<ICategoryRepository,CategoryRepository>();

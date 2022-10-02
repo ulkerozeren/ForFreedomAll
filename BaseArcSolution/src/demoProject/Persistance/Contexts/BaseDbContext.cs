@@ -1,15 +1,11 @@
 ﻿using Domain.Entities;
+using Domain.Entities.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Persistance.Contexts
 {
-    public class BaseDbContext : DbContext
+    public class BaseDbContext : IdentityDbContext<AppUser, AppRole, string>
     {
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
