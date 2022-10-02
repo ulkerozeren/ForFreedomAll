@@ -15,7 +15,6 @@ namespace Persistance.Contexts
         public DbSet<Product> Products { get; set; }
         public DbSet<Order> Orders { get; set; }
 
-
         public BaseDbContext(DbContextOptions options) : base(options)
         { 
         }
