@@ -9,10 +9,17 @@ namespace WebAPI
     [ApiController]
     public class CategoriesController : BaseController
     {
+        public CategoriesController(IConfiguration configuration) : base(configuration)
+        {
+
+        }
+
         [HttpGet]
         public async Task<IActionResult> GetAll([FromQuery] GetAllCategoryQueryRequest getAllCategoryQueryRequest)
         {
             GetAllCategoryQueryResponse result = await Mediator.Send(getAllCategoryQueryRequest);
+            FileLogger.Info("Catalog GetAll metodu cagrildi..");
+
             return Ok(result);
         }
 

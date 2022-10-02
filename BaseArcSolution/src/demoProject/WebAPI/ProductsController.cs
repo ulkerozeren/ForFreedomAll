@@ -9,6 +9,11 @@ namespace WebAPI
     [ApiController]
     public class ProductsController : BaseController
     {
+        public ProductsController(IConfiguration configuration) : base(configuration)
+        {
+
+        }
+
         [HttpGet]
         public async Task<IActionResult> GetAll([FromQuery] GetAllProductQueryRequest getAllProductQueryRequest)
         {
