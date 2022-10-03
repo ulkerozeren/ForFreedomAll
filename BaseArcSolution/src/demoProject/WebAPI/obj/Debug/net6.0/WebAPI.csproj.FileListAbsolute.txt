@@ -73,3 +73,9 @@ D:\BaseArcSolution\BaseArcSolution\src\demoProject\WebAPI\obj\Debug\net6.0\refin
 D:\BaseArcSolution\BaseArcSolution\src\demoProject\WebAPI\obj\Debug\net6.0\WebAPI.pdb
 D:\BaseArcSolution\BaseArcSolution\src\demoProject\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
 D:\BaseArcSolution\BaseArcSolution\src\demoProject\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+D:\BaseArcSolution\BaseArcSolution\src\demoProject\WebAPI\bin\Debug\net6.0\Otp.NET.dll
+D:\BaseArcSolution\BaseArcSolution\src\demoProject\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BaseArcSolution\BaseArcSolution\src\demoProject\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BaseArcSolution\BaseArcSolution\src\demoProject\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\BaseArcSolution\BaseArcSolution\src\demoProject\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\BaseArcSolution\BaseArcSolution\src\demoProject\WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

@@ -53,7 +53,7 @@ namespace Core.Persistance
             var query = Table.AsQueryable();
             if (!tracking)
                 query = Table.AsNoTracking();
-            return await query.FirstOrDefaultAsync(data => data.Id == Guid.Parse(id));
+            return await query.FirstOrDefaultAsync(data => data.Id == id);
         }
 
         public async Task<bool> AddAsync(TEntity model)
@@ -82,7 +82,7 @@ namespace Core.Persistance
 
         public async Task<bool> RemoveAsync(string id)
         {
-            TEntity model = await Table.FirstOrDefaultAsync(data => data.Id == Guid.Parse(id));
+            TEntity model = await Table.FirstOrDefaultAsync(data => data.Id == id);
             return Remove(model);   
         }
 

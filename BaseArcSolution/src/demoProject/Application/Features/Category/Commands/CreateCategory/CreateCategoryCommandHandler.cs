@@ -25,8 +25,6 @@ namespace Application.Features.Category.Commands.CreateCategory
             await _categoryRepository.AddAsync(entity);
             await _categoryRepository.SaveAsync();
 
-
-
             return new();
         }
     }

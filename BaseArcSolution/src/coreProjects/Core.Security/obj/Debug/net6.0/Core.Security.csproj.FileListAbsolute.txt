@@ -13,3 +13,5 @@ D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\obj\Debug\net6
 D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\obj\Debug\net6.0\refint\Core.Security.dll
 D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\obj\Debug\net6.0\Core.Security.pdb
 D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\obj\Debug\net6.0\ref\Core.Security.dll
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\bin\Debug\net6.0\Core.Security.runtimeconfig.json
+D:\BaseArcSolution\BaseArcSolution\src\coreProjects\Core.Security\obj\Debug\net6.0\Core.Security.genruntimeconfig.cache
