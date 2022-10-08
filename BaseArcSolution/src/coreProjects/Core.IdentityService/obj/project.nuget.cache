@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WBNcP4xlXOQtm3K+RRfyLyI/WFj8J9u0BfJmjr5ZMn8FhlvV5IeWvfCnfD09TogOzH5SGOL4gGqmdju/GnXL+g==",
+  "dgSpecHash": "U6zbNFrNTwLtS+zZi4aea8R0Do2rumtEGorLWhsFLMrE7j1w5WHcxkdYhaKgQ49RlOLuGjghvlA6E/hSytQp/g==",
   "success": true,
-  "projectFilePath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\coreProjects\\Core.IdentityService\\Core.IdentityService.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.IdentityService\\Core.IdentityService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

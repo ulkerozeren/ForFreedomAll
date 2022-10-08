@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BaseArcSolution\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\BaseArcSolution\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj": {
+    "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BaseArcSolution\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj",
         "projectName": "Core.Persistance",
-        "projectPath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj",
+        "projectPath": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,14 +68,14 @@
         }
       }
     },
-    "D:\\BaseArcSolution\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj": {
+    "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BaseArcSolution\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\demoProject\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\demoProject\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,8 +92,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\BaseArcSolution\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj": {
-                "projectPath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj"
+              "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj": {
+                "projectPath": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj"
               }
             }
           }

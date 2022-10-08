@@ -8,10 +8,13 @@ namespace Core.Security
 {
     public class CoreDbContext : IdentityDbContext<AppUser, AppRole, string>
     {
-        public CoreDbContext(DbContextOptions options) : base(options)
+       // public CoreDbContext(DbContextOptions options) : base(options)
+        public CoreDbContext(DbContextOptions<CoreDbContext> options) : base(options)
         {
            
         }
+
+      
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

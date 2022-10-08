@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BaseArcSolution\\BaseArcSolution\\src\\demoProject\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\demoProject\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\demoProject\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\demoProject\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\demoProject\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\demoProject\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

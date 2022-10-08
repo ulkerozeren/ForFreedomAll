@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AuEDTrTWF5C/Wm3jc7S0j3vxOkI7RoIRcOCv7kgtvwQQ3bnKLaaJW9U1t22B9z1tMN6Z3Z/ZofRYFGnUeoeEzA==",
+  "dgSpecHash": "kz7KtQirqUMtFaDYd0wXABtJY2n/AeffEYXVjV0579xJvlcv0dxfEibzTBkYOO3mv3b+IL/RzjFaNQsXkJnJSQ==",
   "success": true,
-  "projectFilePath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\demoProject\\Persistance\\Persistance.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\demoProject\\Persistance\\Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

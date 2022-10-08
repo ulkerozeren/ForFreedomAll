@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BaseArcSolution\\BaseArcSolution\\src\\coreProjects\\Core.Mailing\\Core.Mailing.csproj": {}
+    "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Mailing\\Core.Mailing.csproj": {}
   },
   "projects": {
-    "D:\\BaseArcSolution\\BaseArcSolution\\src\\coreProjects\\Core.Mailing\\Core.Mailing.csproj": {
+    "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Mailing\\Core.Mailing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BaseArcSolution\\BaseArcSolution\\src\\coreProjects\\Core.Mailing\\Core.Mailing.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Mailing\\Core.Mailing.csproj",
         "projectName": "Core.Mailing",
-        "projectPath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\coreProjects\\Core.Mailing\\Core.Mailing.csproj",
+        "projectPath": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Mailing\\Core.Mailing.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\coreProjects\\Core.Mailing\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Mailing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

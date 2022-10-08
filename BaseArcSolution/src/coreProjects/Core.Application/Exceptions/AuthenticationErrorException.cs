@@ -8,7 +8,12 @@ namespace Core.Application.Exceptions
 {
     public class AuthenticationErrorException : Exception
     {
-        public AuthenticationErrorException(string message) : base(message)
+
+        public AuthenticationErrorException() : base("Kimlik doğrulama hatası!")
+        {
+        }
+
+        public AuthenticationErrorException(string? message) : base(message)
         {
         }
     }

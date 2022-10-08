@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bC5uG/qUzzuq146BnZRiaA9f2c4Kcw/+791RZ+EeCyAoLCMdTqIYtWdYRkjkvnsxmQeYyzpk9TU7TmoR2OuovA==",
+  "dgSpecHash": "yg/xTM7yiIBPeAX7YxwcPys5Flsh7nSMGKI6fuPRC6hPVas7l4ap/D6JDjENa8RmiZ715EQsTMKVereTm8IX+w==",
   "success": true,
-  "projectFilePath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\coreProjects\\Core.Mailing\\Core.Mailing.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Mailing\\Core.Mailing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\mailkit\\3.4.1\\mailkit.3.4.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

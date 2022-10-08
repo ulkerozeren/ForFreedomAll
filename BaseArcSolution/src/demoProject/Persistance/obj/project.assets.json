@@ -1189,6 +1189,7 @@
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.0",
           "Core.Application": "1.0.0",
+          "Core.Security": "1.0.0",
           "Domain": "1.0.0",
           "FluentValidation.DependencyInjectionExtensions": "11.2.2",
           "MediatR.Extensions.Microsoft.DependencyInjection": "11.0.0",
@@ -1205,7 +1206,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Core.Security": "1.0.0",
           "FluentValidation": "11.2.2",
           "FluentValidation.DependencyInjectionExtensions": "11.2.2",
           "MediatR": "11.0.0",
@@ -1240,6 +1240,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "Core.Application": "1.0.0",
           "Core.Persistance": "1.0.0",
           "Microsoft.AspNetCore.Identity": "2.2.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.9",
@@ -3310,11 +3311,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BaseArcSolution\\BaseArcSolution\\src\\demoProject\\Persistance\\Persistance.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\demoProject\\Persistance\\Persistance.csproj",
       "projectName": "Persistance",
-      "projectPath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\demoProject\\Persistance\\Persistance.csproj",
+      "projectPath": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\demoProject\\Persistance\\Persistance.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\demoProject\\Persistance\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\demoProject\\Persistance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3331,11 +3332,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\BaseArcSolution\\BaseArcSolution\\src\\demoProject\\Application\\Application.csproj": {
-              "projectPath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\demoProject\\Application\\Application.csproj"
+            "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\demoProject\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\demoProject\\Application\\Application.csproj"
             },
-            "D:\\BaseArcSolution\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj"
+            "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cc51I2of9BVoogDI83CEunO6Z3WqkqC3GKotfzkxHkV2rMHsFf0JfKK1sOvAOTGWTj0/TUkfG5LB4T1R0C2PkQ==",
+  "dgSpecHash": "cbZniIJIbB6ol2n/jjuX7umS2g7aVwtZuKkFkW4CVD9Xha5N79X/yJcsjC1gqaF8bbB0dWE70LFTgNZlJn/lXg==",
   "success": true,
-  "projectFilePath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\demoProject\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\demoProject\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
@@ -16,6 +16,7 @@
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.2.0\\microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.9\\microsoft.aspnetcore.authentication.jwtbearer.6.0.9.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.9\\microsoft.aspnetcore.cryptography.internal.6.0.9.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.9\\microsoft.aspnetcore.cryptography.keyderivation.6.0.9.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.dataprotection\\2.2.0\\microsoft.aspnetcore.dataprotection.2.2.0.nupkg.sha512",
@@ -60,6 +61,8 @@
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.23.1\\microsoft.identitymodel.abstractions.6.23.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.23.1\\microsoft.identitymodel.jsonwebtokens.6.23.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.identitymodel.logging\\6.23.1\\microsoft.identitymodel.logging.6.23.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.0\\microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.23.1\\microsoft.identitymodel.tokens.6.23.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",

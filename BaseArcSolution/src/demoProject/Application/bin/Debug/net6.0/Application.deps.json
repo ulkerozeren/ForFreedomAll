@@ -10,6 +10,7 @@
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.0",
           "Core.Application": "1.0.0",
+          "Core.Security": "1.0.0",
           "Domain": "1.0.0",
           "FluentValidation.DependencyInjectionExtensions": "11.2.2",
           "MediatR.Extensions.Microsoft.DependencyInjection": "11.0.0",
@@ -829,7 +830,6 @@
       },
       "Core.Application/1.0.0": {
         "dependencies": {
-          "Core.Security": "1.0.0",
           "FluentValidation": "11.2.2",
           "FluentValidation.DependencyInjectionExtensions": "11.2.2",
           "MediatR": "11.0.0",
@@ -854,6 +854,7 @@
       },
       "Core.Security/1.0.0": {
         "dependencies": {
+          "Core.Application": "1.0.0",
           "Core.Persistance": "1.0.0",
           "Microsoft.AspNetCore.Identity": "2.2.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.9",

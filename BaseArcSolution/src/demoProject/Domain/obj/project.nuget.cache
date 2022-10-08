@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q8BxvwV/xH/i3yEOBgZG5dR5aIE/bQoEqhjJ92t9pfKZVUROeVEyNVdGEqpAJuE1BZ42IxPHimGUU5i+i4KNAA==",
+  "dgSpecHash": "yAoc0KP12HVE628DQ26ncH98uM59yjA1dqWY8Kg2cVFlag8nEB4TgFVWua+r7u4PolHgc6RSvKxqw8fAUXDZ8w==",
   "success": true,
-  "projectFilePath": "D:\\BaseArcSolution\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Source\\Repos\\ufukozer\\BaseProject\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
