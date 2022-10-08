@@ -1,5 +1,6 @@
 ﻿using Core.Security.Entities;
 using Core.Security.JWT;
+using Core.Security.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -21,7 +22,8 @@ namespace Core.Security
                 options.Password.RequireLowercase = false;
                 options.Password.RequireUppercase = false;
             }).AddEntityFrameworkStores<CoreDbContext>();
-
-          }
+            services.AddScoped<IAuthService, AuthService>();
+            services.AddScoped<IUserService, UserService>();
+        }
     }
 }
