@@ -13,10 +13,10 @@ namespace Application.Features.Category.Rules
             _categoryRepository = categoryRepository;
         }
 
-        public async Task CategoryNameCanNotBeDuplicatedWhenInserted(string name)
+        public void CategoryNameCanNotBeDuplicatedWhenInserted(string name)
         {
-            var result = await _categoryRepository.GetWhere(b => b.Name == name);
-            if (result!=null) throw new BusinessException("Category name exists.");
+            var result =  _categoryRepository.GetWhere(b => b.Name == name).Result.ToList();
+            if (result!=null && result.Count>0) throw new BusinessException("Category name exists.");
         }
 
         public void CategoryShouldExistWhenRequested(Domain.Entities.Category category)

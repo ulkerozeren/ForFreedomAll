@@ -1,12 +1,14 @@
 ﻿using Application.Features.Category.Commands.CreateCategory;
 using Application.Features.Category.Queries.GetAllCategory;
 using Application.Features.Category.Queries.GetByIdCategory;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebAPI
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize(AuthenticationSchemes = "Admin")]
     public class CategoriesController : BaseController
     {
         public CategoriesController(IConfiguration configuration) : base(configuration)

@@ -1,0 +1,3 @@
+2022-10-09 16:19:04.020 +03:00 [Information] Catalog GetAll metodu cagrildi..
+2022-10-09 17:14:12.675 +03:00 [Information] Catalog GetAll metodu cagrildi..
+2022-10-09 18:05:43.347 +03:00 [Information] Catalog GetAll metodu cagrildi..

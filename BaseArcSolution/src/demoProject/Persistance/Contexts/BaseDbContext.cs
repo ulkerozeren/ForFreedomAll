@@ -16,6 +16,12 @@ namespace Persistance.Contexts
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
+            builder.Entity<Category>(a =>
+            {
+                a.ToTable("Categories").HasKey(k => k.Id);
+
+            });
+
             base.OnModelCreating(builder);
         }
     }

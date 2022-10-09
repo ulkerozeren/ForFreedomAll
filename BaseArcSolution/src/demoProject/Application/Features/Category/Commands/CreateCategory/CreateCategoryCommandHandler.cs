@@ -19,7 +19,7 @@ namespace Application.Features.Category.Commands.CreateCategory
 
         public async Task<CreateCategoryCommandResponse> Handle(CreateCategoryCommandRequest request, CancellationToken cancellationToken)
         {
-            await _categoryBusinessRules.CategoryNameCanNotBeDuplicatedWhenInserted(request.Name);
+             _categoryBusinessRules.CategoryNameCanNotBeDuplicatedWhenInserted(request.Name);
 
             var entity = _mapper.Map<Domain.Entities.Category>(request);
             await _categoryRepository.AddAsync(entity);

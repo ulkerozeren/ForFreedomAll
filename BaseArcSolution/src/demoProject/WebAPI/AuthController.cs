@@ -1,5 +1,6 @@
 using Application.Features.CreateUser.Commands;
 using Application.Features.Login.Commands;
+using Application.Features.RefreshTokenLogin.Commands;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebAPI
@@ -27,6 +28,13 @@ namespace WebAPI
         public async Task<IActionResult> CreateUser(CreateUserCommandRequest createUserCommandRequest)
         {
             CreateUserCommandResponse response = await Mediator.Send(createUserCommandRequest);
+            return Ok(response);
+        }
+
+        [HttpPost("[action]")]
+        public async Task<IActionResult> RefreshTokenLogin([FromBody] RefreshTokenLoginCommandRequest refreshTokenLoginCommandRequest)
+        {
+            RefreshTokenLoginCommandResponse response = await Mediator.Send(refreshTokenLoginCommandRequest);
             return Ok(response);
         }
 
