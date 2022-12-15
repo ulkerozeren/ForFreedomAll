@@ -1,0 +1,9 @@
+{
+  "name": "base-arc.web",
+  "version": "0.0.0",
+  "description": "BaseArc.Web",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}

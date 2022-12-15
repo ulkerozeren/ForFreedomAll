@@ -7,27 +7,50 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2256055A-A00
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "coreProjects", "coreProjects", "{3CFC6C78-DC8B-4B8B-917A-26BA04410747}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Application", "src\coreProjects\Core.Application\Core.Application.csproj", "{7824F628-AFD1-4AC6-BC83-4386CA5DDA30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Application", "src\coreProjects\Core.Application\Core.Application.csproj", "{7824F628-AFD1-4AC6-BC83-4386CA5DDA30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Persistance", "src\coreProjects\Core.Persistance\Core.Persistance.csproj", "{33322D01-87B2-4D40-B552-CFB19CD93ACE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Persistance", "src\coreProjects\Core.Persistance\Core.Persistance.csproj", "{33322D01-87B2-4D40-B552-CFB19CD93ACE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Mailing", "src\coreProjects\Core.Mailing\Core.Mailing.csproj", "{6BB537D7-9235-464E-A779-3DE80041FE18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Mailing", "src\coreProjects\Core.Mailing\Core.Mailing.csproj", "{6BB537D7-9235-464E-A779-3DE80041FE18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Security", "src\coreProjects\Core.Security\Core.Security.csproj", "{7D608C94-ACCA-4A23-BC23-6E0A8AEB14B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Security", "src\coreProjects\Core.Security\Core.Security.csproj", "{7D608C94-ACCA-4A23-BC23-6E0A8AEB14B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.IdentityService", "src\coreProjects\Core.IdentityService\Core.IdentityService.csproj", "{DED4D869-CA00-42D3-8957-D44E1041DD93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.IdentityService", "src\coreProjects\Core.IdentityService\Core.IdentityService.csproj", "{DED4D869-CA00-42D3-8957-D44E1041DD93}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "demoProject", "demoProject", "{FCAFE9B8-E0D3-4C27-8E44-504B6E938E27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "src\demoProject\Application\Application.csproj", "{1FFFBA45-B27D-4C21-81E8-EB6B591E40C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "src\demoProject\Application\Application.csproj", "{1FFFBA45-B27D-4C21-81E8-EB6B591E40C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistance", "src\demoProject\Persistance\Persistance.csproj", "{FF871717-4D0F-4708-AA0E-9E9F63A5C224}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistance", "src\demoProject\Persistance\Persistance.csproj", "{FF871717-4D0F-4708-AA0E-9E9F63A5C224}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "src\demoProject\Domain\Domain.csproj", "{5FB43609-2548-43E1-89DC-F46E2F3565F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "src\demoProject\Domain\Domain.csproj", "{5FB43609-2548-43E1-89DC-F46E2F3565F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "src\demoProject\Infrastructure\Infrastructure.csproj", "{57523C99-B970-4E90-899B-782702DE175F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "src\demoProject\Infrastructure\Infrastructure.csproj", "{57523C99-B970-4E90-899B-782702DE175F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "src\demoProject\WebAPI\WebAPI.csproj", "{6500A250-F2C9-452B-AF90-E86FA0F6C7EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "src\demoProject\WebAPI\WebAPI.csproj", "{6500A250-F2C9-452B-AF90-E86FA0F6C7EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApp", "WebApp", "{7698ADA7-1E7B-4C0A-AF6A-74FF1FB9C9F9}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Web.Client", "Web.Client\", "{4F942911-A4AA-4B67-9592-67346405A2C8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64738"
+		Debug.AspNetCompiler.PhysicalPath = "Web.Client\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64738\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64738"
+		Release.AspNetCompiler.PhysicalPath = "Web.Client\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64738\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64738"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +98,10 @@ Global
 		{6500A250-F2C9-452B-AF90-E86FA0F6C7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6500A250-F2C9-452B-AF90-E86FA0F6C7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6500A250-F2C9-452B-AF90-E86FA0F6C7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F942911-A4AA-4B67-9592-67346405A2C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F942911-A4AA-4B67-9592-67346405A2C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F942911-A4AA-4B67-9592-67346405A2C8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F942911-A4AA-4B67-9592-67346405A2C8}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,6 +119,8 @@ Global
 		{5FB43609-2548-43E1-89DC-F46E2F3565F0} = {FCAFE9B8-E0D3-4C27-8E44-504B6E938E27}
 		{57523C99-B970-4E90-899B-782702DE175F} = {FCAFE9B8-E0D3-4C27-8E44-504B6E938E27}
 		{6500A250-F2C9-452B-AF90-E86FA0F6C7EA} = {FCAFE9B8-E0D3-4C27-8E44-504B6E938E27}
+		{7698ADA7-1E7B-4C0A-AF6A-74FF1FB9C9F9} = {2256055A-A002-4868-96EB-3F421FAA674E}
+		{4F942911-A4AA-4B67-9592-67346405A2C8} = {7698ADA7-1E7B-4C0A-AF6A-74FF1FB9C9F9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {79D7ECBF-B9E9-40AD-90B3-755069ADA071}
