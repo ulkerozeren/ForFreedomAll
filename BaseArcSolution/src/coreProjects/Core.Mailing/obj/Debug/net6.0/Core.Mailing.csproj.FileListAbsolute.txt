@@ -22,3 +22,15 @@ C:\Users\Asus\Source\Repos\ufukozer\BaseProject\BaseArcSolution\src\coreProjects
 C:\Users\Asus\Source\Repos\ufukozer\BaseProject\BaseArcSolution\src\coreProjects\Core.Mailing\obj\Debug\net6.0\refint\Core.Mailing.dll
 C:\Users\Asus\Source\Repos\ufukozer\BaseProject\BaseArcSolution\src\coreProjects\Core.Mailing\obj\Debug\net6.0\Core.Mailing.pdb
 C:\Users\Asus\Source\Repos\ufukozer\BaseProject\BaseArcSolution\src\coreProjects\Core.Mailing\obj\Debug\net6.0\ref\Core.Mailing.dll
+D:\BaseProject\BaseArcSolution\src\coreProjects\Core.Mailing\bin\Debug\net6.0\Core.Mailing.deps.json
+D:\BaseProject\BaseArcSolution\src\coreProjects\Core.Mailing\bin\Debug\net6.0\Core.Mailing.dll
+D:\BaseProject\BaseArcSolution\src\coreProjects\Core.Mailing\bin\Debug\net6.0\Core.Mailing.pdb
+D:\BaseProject\BaseArcSolution\src\coreProjects\Core.Mailing\obj\Debug\net6.0\Core.Mailing.csproj.AssemblyReference.cache
+D:\BaseProject\BaseArcSolution\src\coreProjects\Core.Mailing\obj\Debug\net6.0\Core.Mailing.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaseProject\BaseArcSolution\src\coreProjects\Core.Mailing\obj\Debug\net6.0\Core.Mailing.AssemblyInfoInputs.cache
+D:\BaseProject\BaseArcSolution\src\coreProjects\Core.Mailing\obj\Debug\net6.0\Core.Mailing.AssemblyInfo.cs
+D:\BaseProject\BaseArcSolution\src\coreProjects\Core.Mailing\obj\Debug\net6.0\Core.Mailing.csproj.CoreCompileInputs.cache
+D:\BaseProject\BaseArcSolution\src\coreProjects\Core.Mailing\obj\Debug\net6.0\Core.Mailing.dll
+D:\BaseProject\BaseArcSolution\src\coreProjects\Core.Mailing\obj\Debug\net6.0\refint\Core.Mailing.dll
+D:\BaseProject\BaseArcSolution\src\coreProjects\Core.Mailing\obj\Debug\net6.0\Core.Mailing.pdb
+D:\BaseProject\BaseArcSolution\src\coreProjects\Core.Mailing\obj\Debug\net6.0\ref\Core.Mailing.dll

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\demoProject\\Persistance\\Persistance.csproj": {}
+    "D:\\BaseProject\\BaseArcSolution\\src\\demoProject\\Persistance\\Persistance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Application\\Core.Application.csproj": {
+    "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Application\\Core.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Application\\Core.Application.csproj",
+        "projectUniqueName": "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Application\\Core.Application.csproj",
         "projectName": "Core.Application",
-        "projectPath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Application\\Core.Application.csproj",
-        "packagesPath": "C:\\Users\\ufuk.ozer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Application\\obj\\",
+        "projectPath": "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Application\\Core.Application.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ufuk.ozer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -84,8 +79,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -94,25 +88,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj": {
+    "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj",
+        "projectUniqueName": "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj",
         "projectName": "Core.Persistance",
-        "projectPath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj",
-        "packagesPath": "C:\\Users\\ufuk.ozer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\obj\\",
+        "projectPath": "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ufuk.ozer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -120,7 +110,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -154,8 +143,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -164,25 +152,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Security\\Core.Security.csproj": {
+    "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Security\\Core.Security.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Security\\Core.Security.csproj",
+        "projectUniqueName": "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Security\\Core.Security.csproj",
         "projectName": "Core.Security",
-        "projectPath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Security\\Core.Security.csproj",
-        "packagesPath": "C:\\Users\\ufuk.ozer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Security\\obj\\",
+        "projectPath": "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Security\\Core.Security.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Security\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ufuk.ozer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -190,18 +174,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Application\\Core.Application.csproj": {
-                "projectPath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Application\\Core.Application.csproj"
+              "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Application\\Core.Application.csproj": {
+                "projectPath": "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Application\\Core.Application.csproj"
               },
-              "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj": {
-                "projectPath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj"
+              "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj": {
+                "projectPath": "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj"
               }
             }
           }
@@ -279,8 +262,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -289,25 +271,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\demoProject\\Application\\Application.csproj": {
+    "D:\\BaseProject\\BaseArcSolution\\src\\demoProject\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\demoProject\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\BaseProject\\BaseArcSolution\\src\\demoProject\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\demoProject\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\ufuk.ozer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\demoProject\\Application\\obj\\",
+        "projectPath": "D:\\BaseProject\\BaseArcSolution\\src\\demoProject\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "D:\\BaseProject\\BaseArcSolution\\src\\demoProject\\Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ufuk.ozer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -315,21 +293,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Application\\Core.Application.csproj": {
-                "projectPath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Application\\Core.Application.csproj"
+              "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Application\\Core.Application.csproj": {
+                "projectPath": "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Application\\Core.Application.csproj"
               },
-              "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Security\\Core.Security.csproj": {
-                "projectPath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Security\\Core.Security.csproj"
+              "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Security\\Core.Security.csproj": {
+                "projectPath": "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Security\\Core.Security.csproj"
               },
-              "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj"
+              "D:\\BaseProject\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\BaseProject\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj"
               }
             }
           }
@@ -367,8 +344,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -377,25 +353,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj": {
+    "D:\\BaseProject\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\BaseProject\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\ufuk.ozer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\demoProject\\Domain\\obj\\",
+        "projectPath": "D:\\BaseProject\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "D:\\BaseProject\\BaseArcSolution\\src\\demoProject\\Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ufuk.ozer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -403,15 +375,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj": {
-                "projectPath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj"
+              "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj": {
+                "projectPath": "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.Persistance\\Core.Persistance.csproj"
               }
             }
           }
@@ -441,8 +412,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -451,25 +421,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\demoProject\\Persistance\\Persistance.csproj": {
+    "D:\\BaseProject\\BaseArcSolution\\src\\demoProject\\Persistance\\Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\demoProject\\Persistance\\Persistance.csproj",
+        "projectUniqueName": "D:\\BaseProject\\BaseArcSolution\\src\\demoProject\\Persistance\\Persistance.csproj",
         "projectName": "Persistance",
-        "projectPath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\demoProject\\Persistance\\Persistance.csproj",
-        "packagesPath": "C:\\Users\\ufuk.ozer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\demoProject\\Persistance\\obj\\",
+        "projectPath": "D:\\BaseProject\\BaseArcSolution\\src\\demoProject\\Persistance\\Persistance.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "D:\\BaseProject\\BaseArcSolution\\src\\demoProject\\Persistance\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ufuk.ozer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -477,18 +443,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\demoProject\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\demoProject\\Application\\Application.csproj"
+              "D:\\BaseProject\\BaseArcSolution\\src\\demoProject\\Application\\Application.csproj": {
+                "projectPath": "D:\\BaseProject\\BaseArcSolution\\src\\demoProject\\Application\\Application.csproj"
               },
-              "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj"
+              "D:\\BaseProject\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\BaseProject\\BaseArcSolution\\src\\demoProject\\Domain\\Domain.csproj"
               }
             }
           }
@@ -540,8 +505,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -550,7 +514,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

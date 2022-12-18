@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "neaE5q0o4+uoFqNng+pB8fI4qZc8dkONTaKoAA+ftB6+Vo4Or53UZbO6CRb0SBBSZd2tvfl9D0qh7SP8PpzZiQ==",
+  "dgSpecHash": "q00JMp6uCkP+rFlrABTAWiuO7a7nDgp4dZ4jF9eaFWABVjVePI6gflA5ZIRi+upYi9fA5TMKkY/RtSrKZH+y+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ufuk.ozer\\Desktop\\Project\\BaseArcSolution\\src\\coreProjects\\Core.IdentityService\\Core.IdentityService.csproj",
+  "projectFilePath": "D:\\BaseProject\\BaseArcSolution\\src\\coreProjects\\Core.IdentityService\\Core.IdentityService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

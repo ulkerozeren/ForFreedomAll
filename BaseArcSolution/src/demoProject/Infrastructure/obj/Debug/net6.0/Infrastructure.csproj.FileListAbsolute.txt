@@ -22,3 +22,15 @@ C:\Users\Asus\Source\Repos\ufukozer\BaseProject\BaseArcSolution\src\demoProject\
 C:\Users\Asus\Source\Repos\ufukozer\BaseProject\BaseArcSolution\src\demoProject\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
 C:\Users\Asus\Source\Repos\ufukozer\BaseProject\BaseArcSolution\src\demoProject\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
 C:\Users\Asus\Source\Repos\ufukozer\BaseProject\BaseArcSolution\src\demoProject\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\BaseProject\BaseArcSolution\src\demoProject\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\BaseProject\BaseArcSolution\src\demoProject\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\BaseProject\BaseArcSolution\src\demoProject\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\BaseProject\BaseArcSolution\src\demoProject\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\BaseProject\BaseArcSolution\src\demoProject\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaseProject\BaseArcSolution\src\demoProject\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\BaseProject\BaseArcSolution\src\demoProject\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\BaseProject\BaseArcSolution\src\demoProject\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\BaseProject\BaseArcSolution\src\demoProject\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\BaseProject\BaseArcSolution\src\demoProject\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\BaseProject\BaseArcSolution\src\demoProject\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\BaseProject\BaseArcSolution\src\demoProject\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
